@@ -1,8 +1,8 @@
-# ESP32-IoT-Device-Control-and-Monitoring
-ESP32-based IoT project for wireless LED control using Wi-Fi, MQTT, Android applications and Bluetooth, with DHT11 sensor data monitoring.
+
 # ESP32 IoT Device Control and Monitoring
 
 ## Project Overview
+ESP32-based IoT project for wireless LED control using Wi-Fi, MQTT, Android applications and Bluetooth, with DHT11 sensor data monitoring.
 This project was carried out during my internship at CDAC Chennai from June 6, 2025, to July 11, 2025. It focuses on developing an IoT-based system to control an ESP32 development board's onboard LED wirelessly using Wi-Fi, mobile applications, MQTT, and Bluetooth communication.
 
 The project also covers interfacing the ESP32 with a DHT11 temperature and humidity sensor and sending sensor data to a dashboard for visualization.
